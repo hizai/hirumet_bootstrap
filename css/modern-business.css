@@ -71,6 +71,11 @@ body {
   margin-bottom: 45px;
 }
 
+.lista
+{
+  margin-top: 10px;
+}
+
 .tooltip-social a {
   text-decoration: none;
   color: inherit;

@@ -304,7 +304,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background: url('../img/geometry.png');
 }
 
 input,
@@ -547,7 +547,7 @@ h4 small,
 
 .page-header {
   padding-bottom: 9px;
-  margin: 40px 0 20px;
+  margin: 70px 0 20px;
   border-bottom: 1px solid #eeeeee;
 }
 
@@ -4269,8 +4269,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 35px;
+    padding-bottom: 35px;
   }
 }
 
@@ -4490,7 +4490,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse {
-  background-color: #222222;
+  background-color: #fefafa;
   border-color: #080808;
 }
 
@@ -4509,20 +4509,20 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-  color: #999999;
+  color: #0d0101;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
   color: #ffffff;
-  background-color: transparent;
+  background-color: #0d0101;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #080808;
+  background-color: #0d0101;
 }
 
 .navbar-inverse .navbar-nav > .disabled > a,
