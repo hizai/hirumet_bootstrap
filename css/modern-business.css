@@ -76,6 +76,12 @@ body {
   margin-top: 10px;
 }
 
+.lista_privada
+{
+  font-size: 2em;
+  margin-top: 40px;
+}
+
 .tooltip-social a {
   text-decoration: none;
   color: inherit;
