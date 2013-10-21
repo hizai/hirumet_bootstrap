@@ -356,6 +356,11 @@ img {
   max-width: 100%;
 }
 
+.img-responsive1 {
+  display: block;
+  max-width: 100%;
+}
+
 .img-rounded {
   border-radius: 6px;
 }
@@ -4264,6 +4269,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
+  }
+  .img-responsive1{
+    height: auto;
   }
 }
 
